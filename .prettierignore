@@ -1,0 +1,7 @@
+dist
+node_modules
+*/**/*.md
+README.md
+yarn.lock
+package.json
+build
